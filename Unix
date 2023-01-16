@@ -3,6 +3,5 @@
 // Description
 
 Command_1
-time
 time [option] [COMMAND]
 time command in Linux is used to execute a command and prints a summary of real-time, user CPU time and system CPU time spent by executing a command when it terminates.
