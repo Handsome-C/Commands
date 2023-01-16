@@ -1,1 +1,7 @@
+// Command_n 
+// Command
+// Description
 
+Command_1:
+Measure-Command {start-process targetProcess -Wait}
+Get the running time of the targetProcess.
